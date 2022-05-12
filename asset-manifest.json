@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wastroush/static/css/main.2f12588a.css",
-    "main.js": "/wastroush/static/js/main.7b62a8bc.js",
+    "main.js": "/wastroush/static/js/main.d440d222.js",
     "static/media/Cross.png": "/wastroush/static/media/Cross.cbf77228e847522eff11.png",
     "static/media/Success.png": "/wastroush/static/media/Success.df533be8f86a57bc5946.png",
     "static/media/Ranade-Variable.ttf": "/wastroush/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
@@ -13,10 +13,10 @@
     "static/media/Info.svg": "/wastroush/static/media/Info.ee717ac430bb01bfbbd42aa3dbffe913.svg",
     "static/media/Close.svg": "/wastroush/static/media/Close.f34771d5d250820d8c5ec83c816bf8f5.svg",
     "main.2f12588a.css.map": "/wastroush/static/css/main.2f12588a.css.map",
-    "main.7b62a8bc.js.map": "/wastroush/static/js/main.7b62a8bc.js.map"
+    "main.d440d222.js.map": "/wastroush/static/js/main.d440d222.js.map"
   },
   "entrypoints": [
     "static/css/main.2f12588a.css",
-    "static/js/main.7b62a8bc.js"
+    "static/js/main.d440d222.js"
   ]
 }
